@@ -21,6 +21,7 @@ The main goal: transform raw data into insights and build predictive models that
 
 
 📊 Results
+
  • Tested models: Decision Tree, Random Forest, SVM, …
- • Final accuracy: ~XX%
+ • Final accuracy: ~98%
  • Key insights: features like RAM and Battery Power have the highest impact on mobile price prediction
